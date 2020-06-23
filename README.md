@@ -1,4 +1,4 @@
-# Autoencoder-based-representation-learning-on-SARS-Cov-2-RNA-genome-sequences
+# Autoencoder based representation learning on SARS-CoV-2 RNA genome sequences
 
 *Author: Dong Liang*
 
