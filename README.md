@@ -1,8 +1,8 @@
 # Autoencoder-based-representation-learning-on-SARS-Cov-2-RNA-genome-sequences
 
-Author: Dong Liang
+*Author: Dong Liang*
 
-E-mail: ldifer@gmail.com
+*E-mail: ldifer@gmail.com*
 
 
 The novel coronavirus disease (COVID-19) started in late 2019 has developed into a global pandemic, posing an immediate and ongoing threat to the health and economic activities of billions of people today. The severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), which causes COVID-19, is characterized by rapid and efficient individual to individual transmission with a range of clinical courses including severe acute respiratory distress syndrome, viral pneumonia, mild upper respiratory infection (URIs) and asymptomatic carriers.  Covariates associated with worse outcome include hypertension, diabetes, coronary heart disease and older age. Study on COVID-19 cases on the Diamond Princess cruise ship in Japan estimates the proportion of asymptomatic patients to be 17.9% (95% CrI: 15.5-20.2%). All these present great challenges for prevention and control of the COVID-19 transmission.
@@ -17,5 +17,6 @@ Machine learning methods have been successfully applied to classify different ty
 ***Figure:** Representation learning-based classification of RNA genomes of the spreading SARS-CoV-2 in four major countries. The stars at the top left corner indicate where locates the reference genome of the virus (Accession ID: NC_045512 ).*
 
 ---
-[Report](https://github.com/DongL/Data-Visualization/blob/master/Report.pdf)
+
+[Report](https://github.com/DongL/Autoencoder-based-representation-learning-on-SARS-CoV-2-RNA-genome-sequences/blob/master/Report.pdf)
 
