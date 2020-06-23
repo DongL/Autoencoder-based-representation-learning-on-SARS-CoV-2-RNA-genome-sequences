@@ -1,3 +1,11 @@
+[Report](https://github.com/DongL/Autoencoder-based-representation-learning-on-SARS-CoV-2-RNA-genome-sequences/blob/master/Report.pdf)
+
+[Notebook](https://github.com/DongL/Autoencoder-based-representation-learning-on-SARS-CoV-2-RNA-genome-sequences/blob/master/SARS_CoV_2_Representation_Learning.html)
+
+[Github Html Preview](https://htmlpreview.github.io)
+
+---
+
 # Autoencoder based representation learning on SARS-CoV-2 RNA genome sequences
 
 *Author: Dong Liang*
@@ -16,10 +24,3 @@ Machine learning methods have been successfully applied to classify different ty
 
 ***Figure:** Representation learning-based classification of RNA genomes of the spreading SARS-CoV-2 in four major countries. The stars at the top left corner indicate where locates the reference genome of the virus (Accession ID: NC_045512 ).*
 
----
-
-[Report](https://github.com/DongL/Autoencoder-based-representation-learning-on-SARS-CoV-2-RNA-genome-sequences/blob/master/Report.pdf)
-
-[Notebook](https://github.com/DongL/Autoencoder-based-representation-learning-on-SARS-CoV-2-RNA-genome-sequences/blob/master/SARS_CoV_2_Representation_Learning.html)
-
-[Github Html Preview](https://htmlpreview.github.io)
