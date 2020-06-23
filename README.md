@@ -1,8 +1,8 @@
 [Report](https://github.com/DongL/Autoencoder-based-representation-learning-on-SARS-CoV-2-RNA-genome-sequences/blob/master/Report.pdf)
 
-[Notebook](https://github.com/DongL/Autoencoder-based-representation-learning-on-SARS-CoV-2-RNA-genome-sequences/blob/master/SARS_CoV_2_Representation_Learning.html)
+[Notebook](https://github.com/DongL/Autoencoder-based-representation-learning-on-SARS-CoV-2-RNA-genome-sequences/blob/master/SARS_CoV_2_Representation_Learning.html) 
 
-[Github Html Preview](https://htmlpreview.github.io)
+The html file can be previewed using [Github Html Preview](https://htmlpreview.github.io).
 
 ---
 
