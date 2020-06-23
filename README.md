@@ -12,4 +12,4 @@ There clear evidences that the SARS-Cov-2 is evolving rapidly. A recent phylogen
 Machine learning methods have been successfully applied to classify different types of cancer and identify potentially valuable disease biomarkers. In addition, the convolutional neural networks (CNNs) has been developed into the method of choice for medical images recognition and classification. Its special convolution and pooling architectures and parameter sharing mechanism make it computationally more efficient compared to the traditional fully connected neural networks. Albeit with its great popularity in various computer vision tasks, the CNN is less commonly employed in the field of genome sequence analysis. This study attempted to use the state-of-the-art CNN-based autoencoder and perform representation learning on 3161 full-length RNA genome sequences of SARS-Cov-2 collected from across various U.S. states and the world. The model prototype developed in this study could serve as a first step in developing disease risk scoring system in the future.
 
 
-![classification](image/by_location.pdf)
+![classification](image/by_location.png)
