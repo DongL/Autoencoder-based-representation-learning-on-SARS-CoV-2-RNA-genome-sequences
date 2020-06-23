@@ -1,5 +1,5 @@
 ###########################################
-#☄SARS-Cov-2 sequence data processing
+#☄SARS-CoV-2 sequence data processing
 # Author: Dong Liang
 # Email: ldifer@gmail.com
 # May 21, 2020
