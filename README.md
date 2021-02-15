@@ -27,6 +27,6 @@ Machine learning methods have been successfully applied to classify different ty
 
 
 
-![classification](image/image%20analsyis%20on%20seq.png)
+![classification](image/image_analsyis_on_seq.png)
 
 
