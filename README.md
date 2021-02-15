@@ -26,7 +26,10 @@ Machine learning methods have been successfully applied to classify different ty
 
 
 
+## Appendix
 
 ![classification](image/image_analsyis_on_seq.png)
 
+---
 
+![classification](image/convolutional_autoencoder.png)
